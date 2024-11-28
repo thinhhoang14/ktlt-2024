@@ -1,9 +1,0 @@
-Function Main
-    Declare Real area
-    Declare Integer radius
-
-    Output "please enter the radius of a circle"
-    Input radius
-    Assign area = 3.14* radius^2
-    Output "The area is"&area
-End
