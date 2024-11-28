@@ -1,0 +1,16 @@
+def circle(radius):
+    # This function has one parameter called Radius. It acts like a local variable that is assigned when the function is called
+    area = math.pi * radius ** 2
+
+    # This function returns the contents of the Area variable.
+    
+    return area
+
+# Main
+print("input the radius of the circle")
+x = int(input())
+
+# The following will call the Circle function using the value the user entered.
+# 
+# Notice that this variable is called x' while the function uses 'Radius'. The value of X' is passed to the function
+print("Area is" + circle(x))
