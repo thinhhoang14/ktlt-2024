@@ -1,5 +1,0 @@
-print('hoàng đình thịnh msv 235752021610114')
-def sum (a, b) :
-    print ("sum="+str (a+b) )
-sum (9, 1)
-sum (3, 12)
