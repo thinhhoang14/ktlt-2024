@@ -1,0 +1,4 @@
+print('hoàng đình thịnh')
+s=input('nhập chuỗi:')
+for thinh in s:
+    print(thinh)
