@@ -1,0 +1,5 @@
+print('hoàng đình thịnh msv 235752021610114')
+ds=input('nhập từ bàn phím').split()
+print(ds)
+tu_dai_nhat=max(ds, key=len)
+print('từ dài nhất trong chuỗi là:',tu_dai_nhat)
