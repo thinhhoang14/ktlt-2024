@@ -1,0 +1,6 @@
+print ("Hoàng Đình Thịnh")
+print ("235752021610114")
+
+array = list(range(12, 38))
+
+print("Mảng giá trị:", array)
