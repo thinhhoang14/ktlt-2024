@@ -1,0 +1,5 @@
+print('hoang dinh thinh msv 235752021610114')
+a=('i from Nghe An')
+ds=a.split()
+ds.sort()
+print(ds)
