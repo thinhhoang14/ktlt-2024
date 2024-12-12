@@ -1,0 +1,5 @@
+import tkinter as tk
+window = tk.Tk()
+window.title("Cửa sổ làm việc của Thịnh")
+window.mainloop()
+print('hoàng đình thịnh msv 235752021610114')
